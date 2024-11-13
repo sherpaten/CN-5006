@@ -1,1 +1,11 @@
+In this week we had lecture about React API Programming. In this lecture I covered about React and React API.
 
+-AIM/OBJECTIVE
+  The aim of this lecture is to Introduce me to React and React API. 
+
+-Reflection
+In this week I write an programmed using react and React API. In this I used useffect, usestate, clickhandel etc. I did two type of programming One is counter and second is emojee counter.
+In counter.js I import react to start with. Then I called two different function one is Hook_ControlledButtonState
+and second is ClickHandle function. After completing this I import counter.js folder in my index folder.
+Second Programme was about EmojeeCounter.js. In this I call a different function from the previous one which is EmojeeCounter(Prop) 
+and use UsedEffect too. Rest of the process is similar
