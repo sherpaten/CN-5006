@@ -9,3 +9,4 @@ In counter.js I import react to start with. Then I called two different function
 and second is ClickHandle function. After completing this I import counter.js folder in my index folder.
 Second Programme was about EmojeeCounter.js. In this I call a different function from the previous one which is EmojeeCounter(Prop) 
 and use UsedEffect too. Rest of the process is similar
+I have also added some of the pic and js file in my comming folder.
