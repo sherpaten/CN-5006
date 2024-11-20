@@ -1,0 +1,7 @@
+In this week I Review my study of Mongoose and MongoDB. It was about how to create a database and run Crude command. It is also related to my course work.
+
+•	AIM/OBJECTIVE
+  The aim of this lecture is to learn The Use of Software which is Mongo DB and Mongoose. 
+•	Reflection (Lab 8)
+     In this week I did and Quiz of 25 marks total on 25 questions. After finishing that I did some programing using Node.JS Mongo DB installation in VS code. 
+I created a database using mongoose. Below are the result of my programming I have connected my MongoDB server using  this (npm install mongodb –save) it is used to instal mongodb in VScode.
