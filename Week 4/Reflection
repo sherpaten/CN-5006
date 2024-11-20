@@ -1,0 +1,9 @@
+In this week we had lecture about Introduction REST API, Post and Get Method. I also learned two types of objectives which were Application Object and Middleware Object. REST API is also known as RESTful web server.
+
+•	AIM/OBJECTIVE
+
+  The aim of this lecture is to learn The Use REST API, POST and GET Methode 
+
+•	Reflection (Lab 4)
+     In this week I created a web application in node.js. In this I used get method to create rest API URL with or without parameter.
+We created different file which were index.js, StudentInfo.html and Student.json
