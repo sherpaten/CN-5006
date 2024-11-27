@@ -1,1 +1,10 @@
+In this week we had lecture about class components.
+- AIM/OBJECTIVE
+  The aim of this lecture is to learn about use of class component. I used class component insted of function in todays class.
 
+- REFLECTION
+  In this week I used used VS code to write programm. I created a react application using npx-creat-react-app. I created three type of fyle they are:
+Facebookemoji.js
+Togglemodee.js
+In this i have used import to link this two fyle in my index.js. and used class component.
+After that i have run the code in react using npm start command.
