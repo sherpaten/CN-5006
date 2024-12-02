@@ -1,29 +1,25 @@
-import App from "./App";
-import './App.css'
-import './calculator.css'
-import React from "react";
-import Button from "./Button.js";
-import {useState} from "react";
 
-function KeyPadComponent(props){
-    const [text1, setText ] = useState("")
+import './Calculator.css';
+import React from "react";
+
+import Button from "./button.js";
+
+import {useState} from "react";
+import ImgButton from './imgButton.js';
+
+function KeyPadComponent(props) {
+    const [text1, setText] = useState("");
     const ClickHandle = (e) => {
-        if (e.target.value=="C")
-        {
-       
-            setText("")    
-        }
-        else if  (e.target.value=="=")
-        {
-        setText(eval(text1))
-        alert(eval(text1))             
-        }
-        else
-        setText(text1+e.target.value)
-      };
-    
+      if (e.target.value == "C") {
+        setText("");
+      } else if (e.target.value == "=") {
+        setText(eval(text1));
+        alert(eval(text1));
+      } else setText(text1 + e.target.value);
+    };
    
         return (
+            <div>
             <div className="Calculator">
                 <div className="screen-row">
                 <input type="text" readOnly value= {text1} />
@@ -63,6 +59,10 @@ function KeyPadComponent(props){
                 </div>
                 
                 
+            </div>
+            <div>
+                <ImgButton/>
+            </div>
             </div>
         );
     
